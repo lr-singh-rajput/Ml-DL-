@@ -229,6 +229,3 @@ model.fit(X_train, y_train, epochs=10)
 
 ---
 
-### 👨‍🎓 Created by Rudra Singh
-
-> "Machine Learning aur Deep Learning dono ka master banne ke liye yeh guide kaafi hai. Hinglish mein simplified explanation ke saath."
